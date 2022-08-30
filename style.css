@@ -1,6 +1,9 @@
 body {
     background-color: aquamarine;
 }
+#madruga {
+    width: 25%;
+}
 h1 {
     color: blue;
     font-size: 40px;
